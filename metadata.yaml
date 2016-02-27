@@ -1,0 +1,24 @@
+_repo: The-Crowd-A-Study-of-the-Popular-Mind_445
+creator:
+  author:
+    agent_name: Le Bon, Gustave
+    alias: Bon, Gustave Le
+    birthdate: 1841
+    deathdate: 1931
+    gutenberg_agent_id: '239'
+    url: http://www.gutenberg.org/2009/agents/239
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Le_Bon
+description: Translation of Psychologie des foules
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HM'
+- !lcsh 'Crowds'
+title: 'The Crowd: A Study of the Popular Mind'
+url: http://www.gutenberg.org/ebooks/445
